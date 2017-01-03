@@ -1,0 +1,2 @@
+# revoltCS
+cs:go external
